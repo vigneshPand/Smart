@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi I am Vignesh Kumar 
 Please give me 500 bucks
 =======
@@ -11,3 +12,7 @@ hi hellooo
 Please give me 500 bucks
 >>>>>>> feea185c01db81b5dca71c88c525550da4b95561
 >>>>>>> fd9e4b8f8b62fb3dcf06b729ac763c0a6f96aef1
+=======
+Hi I am Vignesh Kumar 
+Currently working Ideassion
+>>>>>>> main
