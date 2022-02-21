@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hi I am Vignesh Kumar 
 Please give me 500 bucks
+=======
+Hi I am Vignesh Kumar
+
+Please give me 500 bucks
+>>>>>>> feea185c01db81b5dca71c88c525550da4b95561
